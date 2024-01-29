@@ -1,5 +1,5 @@
-# 프로젝트명
-> 간략한 프로젝트 소개 문구를 작성합니다.
+# 프로그래머스 문제 풀이
+> 프로그래머스 레벨0부터 레벨2까지의 문제들을 풀이함
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
